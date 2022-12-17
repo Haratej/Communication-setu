@@ -156,20 +156,20 @@
         align-items: center;
     }
     .row{
-        display: flex;
+        display: center;
     }
     .box{
         display: flex;
         flex-direction: column;
-        width: 350px;
+        width: 550px;
         height: 450px;
-        border: 1px solid black;
+        border: 1px solid rgb(82, 3, 3);
         margin: 10px;
-        align-items: center;
+        align-items: left;
         text-align: justify;
         padding: 10px;
         border-radius: 15px;
-        background: linear-gradient(to top, rgb(16, 15, 15) 50%, white 50%);
+        background: linear-gradient(to top, rgb(119, 13, 13) 50%, white 50%);
         background-size: 100% 200%;
         transition: all .8s;
     }
@@ -430,14 +430,15 @@
             <div class="row">
                 <div class="box">
                    <center><h1 class="headings">We Support you</h1></center> 
-                    <p>We share the links regarding the Information you want.
-                        The Reply can be given in your own Language:)
-                        We also give support through Whatsapp , Instagram also.
-                        You can get Transport Information.
-                        You can also get information about Hotels,Restaurants etc.
-    
-                    </p>
+                   <div align="left">
+                   <li >We share the links regarding the Information you want.</li>
+                    <li>The Reply can be given in your own Language:)</li> 
+                    <li>We also give support through Whatsapp , Instagram also. </li>
+                    <li>You can get Transport Information. </li>
+                    <li> You can also get information about Hotels,Restaurants etc.</li>
                     </div>
+                </div>
+
         </section></center>
 
         <section id="contact">
