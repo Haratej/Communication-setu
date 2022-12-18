@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -439,15 +439,15 @@
                     </div>
                 </div>
 
-        </section></center>
+        
 
         <section id="contact">
             <center><h1 class="heading">Contact Us</h1></center>
-            <form action=""class="form">
+            
                 <input type="text" name="name" class="input" placeholder="communicationsetu@gmail.in">
                 
 
-            </form>
+            
         </section>
 
         <footer>
@@ -476,6 +476,6 @@
       <p>Copyright © 2022 Communication Setu. All rights reserved</p>
     </div>
   </section>
-  <!-- End Footer -->
-</body>
-</html>
+  <!-- 
+End Footer -->
+
